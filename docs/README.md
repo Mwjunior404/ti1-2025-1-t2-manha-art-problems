@@ -9,9 +9,9 @@ Informações básicas do projeto.
   * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
   * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
   * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+nte forma:
 
-A documentação do projeto é estruturada da seguinte forma:
-
+A documentação do projeto é estruturada da seguir
 1. Introdução
 2. Contexto
 3. Product Discovery
@@ -153,10 +153,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-| ID     | Descrição do Requisito                                   | Prioridade |
+| ID     | Descrição do Requisito                                 | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
 | RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️   | MÉDIA     |
 
 ### Requisitos não Funcionais
 
@@ -245,10 +245,10 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
 | Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
-| Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
+| Repositório de código       | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
 | Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
-|                             |            |                                                    |
+| Protótipo Interativo        | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
+|                             |            |                                                |
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
