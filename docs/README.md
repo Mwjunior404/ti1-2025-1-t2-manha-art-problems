@@ -9,7 +9,7 @@ Informações básicas do projeto.
   * [Antônio Oliveira Garíglio](https://github.com/antoniogariglio)
   * [Felipe dos Reis Araújo](https://github.com/FelipeReisAraujo)
   * [Gabriel Cardoso da Gama](https://github.com/biruleiii)
-  * [Gustavo](https://github.com/1Guhh)
+  * [Gustavo Henrique Silva](https://github.com/1Guhh)
   * [Miguel Andrade Nascimento](https://github.com/Miguel-Nasciment)
 
 A documentação do projeto é estruturada da seguir
@@ -114,15 +114,6 @@ Objetivos Específicos:
 **Carência de um local mais profissional para a comunicação entre artistas e produtores.**    
 **Necessidade de sistemas de portfólio e ações para o pós-contato entre usuários.**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
-
 ## Etapa de Definição
 
 ### Personas
@@ -147,13 +138,6 @@ Objetivos Específicos:
 Nesse momento, vamos transformar os insights e validações obtidos em soluções tangíveis e utilizáveis. Essa fase envolve a definição de uma proposta de valor, detalhando a prioridade de cada ideia e a consequente criação de wireframes, mockups e protótipos de alta fidelidade, que detalham a interface e a experiência do usuário.
 
 ## Histórias de Usuários
-
-Com base na análise das personas foram identificadas as seguintes histórias de usuários:
-
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
-| --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
 
 **Artista visual**
 **Como Artista visual, Eu preciso de criar um portfólio online com minhas melhores obras, Para que agências de publicidade e clientes interessados em ilustração possam avaliar meu estilo e qualidade.**
@@ -255,7 +239,7 @@ Divisão de papéis no grupo e apresentação da estrutura da ferramenta de cont
 > - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+p
 # Solução Implementada
 
 Esta seção apresenta todos os detalhes da solução criada no projeto.
