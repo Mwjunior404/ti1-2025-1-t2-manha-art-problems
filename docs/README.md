@@ -2,17 +2,18 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** Art Flow
+* **Repositório GitHub:** (https://github.com/Miguel-Nasciment/pbh-oficina-1-20250402.git)
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Antônio Oliveira Garíglio](https://github.com/antoniogariglio)
+  * [Felipe dos Reis Araújo](https://github.com/FelipeReisAraujo)
+  * [Gabriel Cardoso da Gama](https://github.com/biruleiii)
+  * [Gustavo Henrique Silva](https://github.com/1Guhh)
+  * [Miguel Andrade Nascimento](https://github.com/Miguel-Nasciment)
 
-A documentação do projeto é estruturada da seguinte forma:
-
-1. Introdução
+A documentação do projeto é estruturada da seguir
+1. Introdução 
 2. Contexto
 3. Product Discovery
 4. Product Design
@@ -28,90 +29,109 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+**Identificamos uma carência de um ambiente seguro onde artistas de ramos distintos tem a possibilidade de encontrar e entrar em contato com possíveis clientes, além de possibilitar formação de grupos de diversos profissionais para um trabalho conjunto .** 
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**Desenvolver um software que proporcione um ambiente seguro e eficiente para que artistas de diferentes ramos possam encontrar e estabelecer contato com potenciais clientes, além de facilitar a formação de grupos colaborativos entre profissionais para a realização de trabalhos conjuntos.**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
+
+**Investigar e especificar os requisitos funcionais e não funcionais do software: Realizar um levantamento detalhado das necessidades dos artistas e potenciais clientes, identificando as funcionalidades essenciais para a interação, comunicação, apresentação de portfólio, busca por profissionais e formação de grupos. Isso incluirá a definição de aspectos como segurança da informação, usabilidade, desempenho e escalabilidade da plataforma.**
+
+**Desenvolver e implementar um sistema de busca e filtragem avançado para artistas e clientes: Criar mecanismos eficientes que permitam aos clientes encontrar artistas com base em diferentes critérios (ramo artístico, estilo, experiência, localização, etc.) e aos artistas identificar oportunidades de trabalho ou colaboradores para projetos específicos, utilizando filtros detalhados e palavras-chave relevantes.**
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+**A motivação central para o desenvolvimento desta aplicação reside na identificação clara de uma lacuna no mercado para artistas de diversas áreas. Atualmente, muitos profissionais enfrentam dificuldades significativas para divulgar seu trabalho de forma eficaz, conectar-se com clientes interessados e encontrar outros artistas para colaborações enriquecedoras. As plataformas existentes muitas vezes são genéricas, com foco em nichos específicos ou carecem de recursos que realmente atendam às necessidades multifacetadas da comunidade artística.**
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+ **Artistas**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+**Perfil: Profissionais de diversos ramos (visuais, performáticos, escritores, etc.). Nível de conhecimento tecnológico variado, geralmente familiarizados com plataformas de divulgação online. Principalmente autônomos ou em pequenas estruturas.**
+**Necessidades: Divulgar portfólio, encontrar clientes (incluindo empresas e indivíduos) e oportunidades, conectar-se com outros artistas para colaborações.**
+
+**Clientes Individuais:**
+
+**Perfil: Usuários com diferentes níveis de conhecimento tecnológico buscando contratar artistas para necessidades pessoais (encomendar uma obra de arte, contratar para um evento pessoal, etc.).**
+**Necessidades: Encontrar artistas que atendam às suas necessidades específicas, visualizar portfólios, comparar preços e perfis, comunicar-se de forma segura.**
+
+**Empresas:**
+
+**Perfil: Organizações de diversos setores (produtoras, agências, galerias, empresas em geral) com bom conhecimento tecnológico, buscando contratar artistas para projetos profissionais (design, eventos corporativos, marketing, conteúdo, etc.).**
+**Necessidades: Encontrar artistas com experiência profissional, verificar portfólios e referências, solicitar orçamentos, gerenciar a comunicação e o fluxo de trabalho para contratações de maior escala ou projetos contínuos.**
 
 # Product Discovery
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
+**1. Matriz CSD (Certezas, Suposições, Dúvidas):**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+**Certezas:**
+**Existe uma demanda por plataformas que facilitem a conexão entre artistas e produtores, e clientes que buscam esses profissionais.**    
+**A plataforma deve permitir a criação de perfis, busca por artistas/produtores, visualização de portfólios e contato inicial entre as partes.**    
+**A interface do usuário deve ser intuitiva e agradável.**    
+**A plataforma deve ser responsiva para diferentes dispositivos.**    
+**A mídia (fotos, vídeos, áudios) é essencial na plataforma.**    
+**Suposições:**
+**Recursos premium podem gerar receita (divulgação paga, etc.).**    
+**O público-alvo inclui artistas independentes, produtores e clientes interessados em serviços artísticos**   
+**Filtros de busca avançados melhorarão a eficiência da plataforma.**    
+**Um sistema de avaliação e feedback aumentará a confiança.**    
+**Ferramentas de comunidade (fóruns) podem melhorar a interação entre os usuários.**    
+**Dúvidas:**
+**Qual o melhor modelo de monetização (assinaturas, comissões, publicidade)?**    
+**Quais estratégias de marketing serão mais eficazes?**    
+**Como a plataforma se diferenciará da concorrência?**   
+**Como garantir a qualidade e segurança do conteúdo gerado pelos usuários?**    
+**Quais recursos adicionais são mais valiosos (colaboração, integração com redes sociais)?**    
+**Quais as legislações relevantes para a plataforma (trabalho, dados dos usuários)?**    
+**2. Mapa de Stakeholders:**
+
+**O Mapa de Stakeholders identifica os principais grupos envolvidos:**
+
+**Fundamentais: Artistas, Produtores.**    
+**Importantes: Artistas em ascensão, Produtores em geral, Casas de Show e Estúdios.**    
+**Influenciadores: Influenciadores, Redes Sociais, Plataformas de Distribuição Digital, Opinião Pública, Secretaria Nacional de Direitos Autorais e Propriedade Intelectual.**    
+**3. Entrevistas Qualitativas:**
+
+**As entrevistas qualitativas com artistas revelaram os seguintes pontos:**
+
+**Como buscam trabalho/colaborações: Redes sociais, networking.**    
+**Desafios: Visibilidade, engajamento.**    
+**Plataformas utilizadas: Instagram, TikTok, YouTube, Twitter, Whatsapp, Discord.**    
+**Expectativas de uma plataforma: Chat seguro, qualidade de vídeo/imagem, transações seguras, algoritmo de agrupamento de conteúdo similar, hashtags/páginas/comunidades, filtros de interesse.**    
+**Disposição para pagar por recursos premium: Depende da qualidade e benefícios (divulgação, exposição).**    
+**Importância do portfólio online: Essencial para mostrar o trabalho e atrair clientes.**    
+**Facilidade de encontrar artistas: Busca difícil atualmente, um sistema eficiente de busca é necessário.**    
+**4. Highlights de Pesquisa:**
+
+**Os "Highlights" da pesquisa apontam para:**
+
+**Dificuldade em conseguir visibilidade e valorização do trabalho.**    
+**Redes sociais são primordiais para a comunicação.**    
+**Carência de um local mais profissional para a comunicação entre artistas e produtores.**    
+**Necessidade de sistemas de portfólio e ações para o pós-contato entre usuários.**
 
 ## Etapa de Definição
 
 ### Personas
 
-**✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
+**João Pereira - Agente de Eventos**    
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
->
-> **Orientações**:
->
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+**Descrição: João é um agente de eventos de 35 anos. Ele utiliza o computador para planejar eventos, gerenciar orçamentos e se comunicar com artistas, e o celular para contatos rápidos e resolver imprevistos. Trabalha em agências de eventos, produtoras ou de forma independente. É organizado, comunicativo, negociador, dinâmico e exigente com prazos e qualidade. Seus objetivos principais são encontrar artistas talentosos para seus eventos, negociar preços e contratos de forma eficiente e gerenciar a logística e produção dos eventos. Seu sonho é produzir eventos de grande porte, reconhecidos pela qualidade e inovação.**
+**Mapa de Empatia: O Mapa de Empatia de João mostra que ele precisa de uma plataforma que facilite encontrar profissionais de áreas distintas, possibilite definir orçamentos e agilize o encontro de profissionais em um só lugar. Suas dores incluem a dificuldade em montar equipes para trabalhos mais avançados e em pegar diferentes orçamentos, além do estresse na organização. A plataforma idealmente proporcionaria maior leque de profissionais, menos estresse na organização e economia de tempo e dinheiro.**
+
+**2. Lucas Oliveira - Artista Freelancer**    
+
+**Descrição: Lucas é um artista freelancer de 32 anos, com habilidades em escultura, arte digital e design de personagens. Ele frequenta exposições de arte, galerias, eventos de design e utiliza plataformas online de portfólio e redes sociais profissionais. É profissional, ambicioso, busca expandir sua rede de contatos, valoriza a qualidade e o reconhecimento. Seus objetivos principais são encontrar projetos desafiadores e bem remunerados, conectar-se com outros profissionais da área, divulgar seu trabalho para um público seleto e gerenciar seus contratos e pagamentos de forma eficiente. Seu sonho é construir um estúdio de arte, trabalhar em projetos de grande escala e ser reconhecido como referência em sua área.**
+**Mapa de Empatia: O Mapa de Empatia de Lucas revela que ele precisa de um local onde deixar seu portfólio, ter maior visibilidade e criar networking dentro de sua área. Suas dores centrais são achar clientes e a dificuldade de pessoas de fora encontrarem seu trabalho. A plataforma deve facilitar a procura de clientela, aumentar o alcance de seu produto e proporcionar maior visibilidade.**
+
+**3. Sofia Martins - Analista de Marketing Digital**    
+
+**Descrição: Sofia é uma analista de marketing digital de 25 anos, com interesse em moda, viagens, podcasts e ativismo social. Ela utiliza redes sociais (Instagram, Pinterest, TikTok), frequenta eventos culturais, lojas de design e coworkings, tanto presencialmente quanto online. É independente, antenada às tendências, valoriza a autenticidade e aprecia design e estética. Seus objetivos principais são encontrar obras de arte e produtos originais para decoração, adquirir presentes exclusivos, colaborar com artistas em projetos e personalizar produtos com trabalhos de arte. Seu sonho é decorar seu apartamento com peças únicas, apoiar artistas independentes e criar um ambiente personalizado e inspirador.**
+**Mapa de Empatia: O Mapa de Empatia de Sofia destaca sua necessidade de achar profissionais qualificados e um local seguro onde não haja chance de fraude. Suas dores incluem a dificuldade em achar profissionais e a preocupação com a segurança. A plataforma deve facilitar sua busca, promover profissionais qualificados e proporcionar contas de empresa e profissionais mais qualificados, além de segurança e verificação de currículos.**
 
 # Product Design
 
@@ -119,33 +139,28 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 ## Histórias de Usuários
 
-Com base na análise das personas foram identificadas as seguintes histórias de usuários:
+**Artista visual**
+**Como Artista visual, Eu preciso de criar um portfólio online com minhas melhores obras, Para que agências de publicidade e clientes interessados em ilustração possam avaliar meu estilo e qualidade.**
 
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
-| --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
+**Como Músico freelancer, Eu preciso de especificar minha disponibilidade e minhas tarifas por tipo de serviço (shows, gravações, aulas), Para que produtores e clientes saibam se posso atender às suas necessidades e qual o meu preço.**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
->
-> **Orientações**:
->
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+**Conexão e Comunicação**
+**Como Produtor, Eu preciso de entrar em contato diretamente com artistas que me interessam, Para que possa discutir projetos e orçamentos.** 
+
+**Como Produtor de conteúdo digital, Eu preciso de buscar ilustradores e designers com estilos específicos, Para que possa criar materiais visuais para minhas campanhas online.** 
 
 ## Proposta de Valor
 
-**✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
+**A plataforma conecta artistas com clientes e outros profissionais, facilitando a descoberta, colaboração e contratação.**    
 
-##### Proposta para Persona XPTO ⚠️ EXEMPLO ⚠️
+**Para Artistas: Aumenta a visibilidade, oferece networking e ferramentas para gerenciar portfólio e contratos.**    
 
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
+**Para Clientes: Simplifica a busca e contratação de artistas, economizando tempo e recursos.**    
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O mapa da proposta de valor é uma ferramenta que nos ajuda a definir qual tipo de produto ou serviço melhor atende às personas definidas anteriormente.
+**Em geral: A plataforma busca resolver dificuldades de encontrar profissionais criativos, insegurança nas transações e falta de um local centralizado para conectar artistas e clientes.**
+
+
+**Fontes e conteúdo relacionado**
 
 ## Requisitos
 
@@ -153,33 +168,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-| ID     | Descrição do Requisito                                   | Prioridade |
-| ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| ID     | Descrição do Requisito                                                    | Prioridade |
+| ------ | --------------------------------------------------------------------------| ---------- |
+| RF-001 | Permitir que o usuário cadastre seu portifolio                            | ALTA       |
+| RF-002 | O usuário deve poder criar um perfil com foto, nome, idade e interesses.  | alta       |
 
 ### Requisitos não Funcionais
 
-| ID      | Descrição do Requisito                                                              | Prioridade |
-| ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| ID      | Descrição do Requisito                                                        | Prioridade |
+| ------- | ------------------------------------------------------------------------------| ---------- |
+| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel             | MÉDIA      |
+| RNF-002 | Deve processar requisições do usuário em no máximo 3s                         | BAIXA      |
 
 ## Projeto de Interface
 
@@ -189,40 +188,12 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 Estes são os protótipos de telas do sistema.
 
-**✳️✳️✳️ COLOQUE AQUI OS PROTÓTIPOS DE TELAS COM TÍTULO E DESCRIÇÃO ✳️✳️✳️**
-
-##### TELA XPTO ⚠️ EXEMPLO ⚠️
-
-Descrição para a tela XPTO
-
-![Exemplo de wireframe](images/exemplo-wireframe.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
->
-> **Orientações**:
->
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+![wireframe](images/wireframe.png)
 
 ### User Flow
 
 **✳️✳️✳️ COLOQUE AQUI O DIAGRAMA DE FLUXO DE TELAS ✳️✳️✳️**
-
-![Exemplo de fluxo de telas](images/exemplo-userflow.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
->
-> **Orientações**:
->
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools &amp; Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![flow](images/flow.png)
 
 ### Protótipo Interativo
 
@@ -236,23 +207,18 @@ Descrição para a tela XPTO
 
 # Metodologia
 
-Detalhes sobre a organização do grupo e o ferramental empregado.
-
+O grupo teve uma organização onde a maoria dos intregantes fizeram tudo conjuto, todos ajudaram para possibilitar varias ideias em diferentes paretes do trabalho. Usamos o discord para comunicação, miro para grande parte dos mapas e Ibis paint X para o wireframe e flow.
 ## Ferramentas
 
 Relação de ferramentas empregadas pelo grupo durante o projeto.
 
-| Ambiente                    | Plataforma | Link de acesso                                     |
-| --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
-| Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
-|                             |            |                                                    |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) Editor de código, (2) )ferramentas de comunicação, (3) )ferramentas de diagramação, (4) )plataformas de hospedagem, entre outras.
+| Ambiente                    | Plataforma | Link de acesso                                                 |
+| --------------------------- | ---------- | ---------------------------------------------------------------|
+| Processo de Design Thinking | Miro       | https://encurtador.com.br/2LDo2                                |
+| Repositório de código       | GitHub     | https://github.com/Miguel-Nasciment/pbh-oficina-1-20250402.git |
+| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️                 |
+| Protótipo Interativo        | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️                   |
+|                             |            |                                                                |
 
 ## Gerenciamento do Projeto
 
@@ -273,7 +239,7 @@ Divisão de papéis no grupo e apresentação da estrutura da ferramenta de cont
 > - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+p
 # Solução Implementada
 
 Esta seção apresenta todos os detalhes da solução criada no projeto.
