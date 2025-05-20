@@ -154,3 +154,4 @@ mostrarTalentos(talentos); // Mostrar todos os talentos inicialmente
 
 // Adiciona um ouvinte de evento para a busca por palavra-chave em tempo real
 keywordInput.addEventListener('input', filtrarResultados);
+
