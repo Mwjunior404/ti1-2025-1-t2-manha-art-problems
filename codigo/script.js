@@ -147,11 +147,11 @@ function filtrarResultados() {
     mostrarTalentos(resultadosFiltrados);
 }
 
-// Inicialização
+//Inicialização
 gerarFiltrosDeTags();
 atualizarValoresPreco();
-mostrarTalentos(talentos); // Mostrar todos os talentos inicialmente
+mostrarTalentos(talentos); //Mostrar todos os talentos inicialmente
 
-// Adiciona um ouvinte de evento para a busca por palavra-chave em tempo real
+//Adiciona um ouvinte de evento para a busca por palavra-chave em tempo real
 keywordInput.addEventListener('input', filtrarResultados);
 
